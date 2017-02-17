@@ -7,7 +7,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 //comment github2
-//comment github3
+//comment github3++
 //comment bonus
 //@RequestScoped
 @Path("persons")
