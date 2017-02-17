@@ -7,6 +7,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 
+//comment bonus
 //@RequestScoped
 @Path("persons")
 public class PersonResource {
