@@ -6,7 +6,8 @@ import java.util.List;
 import javax.annotation.PostConstruct;
 import javax.inject.Singleton;
 import javax.ws.rs.NotFoundException;
-//comment branche develop
+//comment branche develop 
+//ajout branche develop
 @Singleton
 public class PersonDatabase {
 
